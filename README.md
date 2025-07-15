@@ -6,3 +6,8 @@ As Turbowarp has more possibilities than Scratch on code.
 
 ## Milestone 1 (Early Beta)
 Development of the Desktop environment has started.
+
+## Milestone 2.X (Beta)
+Desktop environment is done, looks like macOS. Adding apps and bugfixes.
+
+Licensed by the GNU General Public License Version 3.0
