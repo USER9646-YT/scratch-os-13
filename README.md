@@ -10,4 +10,4 @@ Development of the Desktop environment has started.
 ## Milestone 2.X (Beta)
 Desktop environment is done, looks like macOS. Adding apps and bugfixes.
 
-Licensed by the GNU General Public License Version 3.0
+Licensed by the GNU General Public License Version 3.0 and the USER General License.
