@@ -14,3 +14,7 @@ Desktop environment is done, looks like macOS. Adding apps and bugfixes.
 Desktop environment is done, Kind of looks like macOS. Apps are getting added.
 
 Licensed by the GNU General Public License Version 3.0.
+
+## Milestone 4.XX (Early Release Candidate)
+
+Icon theme has changed, Browser added.
