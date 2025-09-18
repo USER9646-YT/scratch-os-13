@@ -18,3 +18,7 @@ Licensed by the GNU General Public License Version 3.0.
 ## Milestone 4.XX (Early Release Candidate)
 
 Icon theme has changed, Browser added.
+
+## Milestone 5.XX (Middle Release Candidate)
+
+Browser mostly changed, URL bar added to browser. Help program in development.
